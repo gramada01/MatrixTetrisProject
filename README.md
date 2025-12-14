@@ -159,4 +159,4 @@ The implementation uses object-oriented programming with a clean separation of c
 ![Setup1](Tetris/Setup1.jpeg "Setup1")
 ![Setup2](Tetris/Setup2.jpeg "Setup2")
 
-#### [Video of project implementation](www.youtube.com/watch?si=UdX2BUxr0ekZxRZw&v=z8rKnogZTEY&feature=youtu.be)
+#### [Video of project implementation](https://www.youtube.com/watch?v=z8rKnogZTEY)
